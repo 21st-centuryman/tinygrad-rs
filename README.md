@@ -5,7 +5,7 @@
 
 [![Rust](https://img.shields.io/badge/Rust-orange.svg?style=for-the-badge&logoColor=white&logo=rust)][rust]
 [![Tinygrad](https://img.shields.io/badge/Tinygrad-3776AB.svg?style=for-the-badge&logoColor=white)][tinygrad]
-[![Tinycorp](https://img.shields.io/badge/Tiny Corp-white.svg?style=for-the-badge&logoColor=white)][tinycorp]
+[![Tinycorp](https://img.shields.io/badge/Tiny_Corp-white.svg?style=for-the-badge&logoColor=white)][tinycorp]
 
 [rust]: https://www.rust-lang.org/
 [tinygrad]: https://github.com/geohot/tinygrad
