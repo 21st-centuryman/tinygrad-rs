@@ -1,0 +1,3 @@
+[submodule "tinygrad-py"]
+	path = tinygrad-py
+	url = https://github.com/geohot/tinygrad
