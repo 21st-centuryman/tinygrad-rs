@@ -1,0 +1,2 @@
+[workspaces]
+members = ["tinygrad", "tests"]
