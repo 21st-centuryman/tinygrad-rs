@@ -1,0 +1,7 @@
+TODO 
+
+*  Tests, I think the first step would be to implement good tests for this repo. Anything used in the tinygrad core directory should be written. THe others are a tad bti useless as of now.
+*  Github actions, add the tests to the github actions workflow
+*  Tinygrad directory - basic tensor. Implement tensor.py in tinygrad
+*  Tinygrad directory overall - Whatever library folder you think is needeed, implement it!
+*  Implement nn directory within Tinygrad
