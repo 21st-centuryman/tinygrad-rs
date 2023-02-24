@@ -23,7 +23,7 @@ This project will be worked on from time to time. If I find the time outside of 
 If you want to help me with this project. Feel free to fork the repo and send in a PR. Look into the [todo.txt](./docs/todo.txt) file for a list of things that needs to be done. I will also try to keep this repo up to the highest standards.
 
 ### ⇁  File structure
-Below is the idea of how the file structure will set up. It will mirror that of Tinygrad so if you want to add one of these files feel free to send in a PR. 
+Below is the idea of how the file structure will set up. It will mirror that of Tinygrad so if you want to add one of these files feel free to do so.
 
 ```
 ├── README.md
