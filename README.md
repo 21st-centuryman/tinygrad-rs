@@ -26,7 +26,6 @@ If you want to help me with this project. Feel free to fork the repo and send in
 Below is the idea of how the file structure will set up. It will mirror that of Tinygrad so if you want to add one of these files feel free to send in a PR. 
 
 ...
-`
 ├── README.md
 ├── cargo.toml
 ├── tests - Tests for tinygrad-rs
@@ -43,8 +42,6 @@ Below is the idea of how the file structure will set up. It will mirror that of 
 │   │  ├── shape - Things that deal with Tensor shapes
 │   │  └── tensor.rs - Main Tensor class
 │   └── cargo.toml
-
-`
 ...
 
 Note that I will probably change the overall stucture of the repo. The idea was to have a simple rewrite, but if a file or folder requires it we will change the overall sturcture
